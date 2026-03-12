@@ -25,8 +25,8 @@
         android:ems="10"
         android:inputType="text"
         android:text="Name"
-        tools:layout_editor_absoluteX="64dp"
-        tools:layout_editor_absoluteY="81dp" />
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="73dp" />
 
     <Button
         android:id="@+id/clickButton"
