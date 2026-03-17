@@ -25,15 +25,23 @@
         android:ems="10"
         android:inputType="text"
         android:text="Name"
-        tools:layout_editor_absoluteX="22dp"
-        tools:layout_editor_absoluteY="73dp" />
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="113dp" />
 
     <Button
         android:id="@+id/clickButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Click Me"
-        tools:layout_editor_absoluteX="155dp"
-        tools:layout_editor_absoluteY="653dp" />
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="649dp" />
+
+    <Switch
+        android:id="@+id/zuluswitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="zulu"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="297dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
