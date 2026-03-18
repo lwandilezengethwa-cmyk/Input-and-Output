@@ -37,7 +37,7 @@
         tools:layout_editor_absoluteY="649dp" />
 
     <Switch
-        android:id="@+id/zuluswitch"
+        android:id="@+id/zuluSwitch"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="zulu"
